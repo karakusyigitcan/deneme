@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< selam
 # deneme 
 deneme bir iki
 =======
