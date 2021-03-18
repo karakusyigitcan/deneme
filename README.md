@@ -1,2 +1,2 @@
 # deneme 
-deneme bir 
+deneme bir iki
